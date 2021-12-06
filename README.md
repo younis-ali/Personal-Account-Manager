@@ -5,6 +5,8 @@ the database tables we use FastAPI where we can type queries to insert records
 into the table and DML queries also. After executing DML queries the output is
 stored in csv file '''
 
+I run the program in google colab and the notebook is also in the repository. 
+
 Requirements
 1. Uvicorn server
 2. FastAPI
